@@ -6,8 +6,8 @@ highlighter:      rouge
 title:            Stan
 tagline:          The wandering mind of a curious person
 description:      "Observation, reflection, personal notes and probably helpful insights."
-url:              https://gfc121.github.io/
-baseurl:          /orn
+url:              https://gfc121.github.io
+baseurl:          '/orn'
                   # the optional subpath of your site, e.g. "/my-jekyll-site/"
                   # This will apply to all pages in your Jekyll site.
 
