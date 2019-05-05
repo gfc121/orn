@@ -1,0 +1,31 @@
+# Dependencies
+markdown:         kramdown
+highlighter:      rouge
+
+# Setup
+title:            Stan
+tagline:          The wandering mind of a curious person
+description:      "Observation, reflection, personal notes and probably helpful insights."
+url:              https://github.com/karloespiritu/blackdoc
+baseurl:          /
+                  # the optional subpath of your site, e.g. "/my-jekyll-site/"
+                  # This will apply to all pages in your Jekyll site.
+
+author:
+  name:           Stan Dim
+  url:            https://twitter.com/stanislav_dim
+
+paginate:         5
+# paginate_path:    '/page:num'
+                    # Or '/my-jekyll-site/page:num' if you want to move your index pages
+
+plugins:
+  - jekyll-feed
+  - jekyll-gist
+  - jekyll-paginate
+
+# Custom vars
+version:            2.0.1
+
+github:
+  repo:
