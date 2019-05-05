@@ -65,7 +65,7 @@ a {
 }
 
 a:hover {
-  color: #f5c853;
+  color: #caad00;
 }
 
 .btn {
@@ -205,12 +205,12 @@ tbody tr:nth-child(odd) th {
 
 /* Sidebar links */
 .sidebar a {
-  color: #f5c853;
+  color: #caad00;
 }
 
 /* About section */
 .sidebar-about h1 {
-  color: #f5c853;
+  color: #caad00;
   margin-top: 0;
   font-family: 'Noto Serif', serif;
   font-size: 2.25rem;
@@ -284,7 +284,7 @@ a.sidebar-nav-item:focus {
 .page-title,
 .post-title,
 .post-title a {
-  color: #f5c853;
+  color: #caad00;
 }
 
 /*
