@@ -10,4 +10,4 @@ tags: jekyll
 
 Find out more by [visiting the project on GitHub](https://github.com/mojombo/jekyll).
 
-[Title](https://raw.githubusercontent.com/gfc121/orn/master/public/images/blackdoc-screenshot.jpg)
+[Title](/Users/stanislavdimitrov/Documents/GitHub/orn/_site/public/images/blackdoc-screenshot.jpg)
