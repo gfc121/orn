@@ -24,6 +24,10 @@ plugins:
   - jekyll-gist
   - jekyll-paginate
 
+tag_page_layout: tag_page
+tag_page_dir: tag
+
+
 # Custom vars
 version:            2.0.1
 
